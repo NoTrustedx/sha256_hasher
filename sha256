@@ -1,0 +1,10 @@
+import hashlib
+def crypt_str(hash_str):
+    sha_sign = \
+        hashlib.sha256(hash_str.encode()).hexdigest()
+    return sha_sign
+
+hash_str = 'admin'#<==enter the data to be encrypted
+sha_sign = crypt_str(hash_str)
+mayus = sha_sign.upper()
+print("TextCripher: " + mayus)
