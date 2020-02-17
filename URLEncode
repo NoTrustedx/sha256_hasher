@@ -1,0 +1,5 @@
+from requests.utils import quote
+print ("[ Ingrese dato:] ")
+dato = input()
+encode = quote(dato, safe='')
+print ("[ URL Encode: ] \n",encode)
