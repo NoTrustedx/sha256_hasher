@@ -54,7 +54,7 @@ Este script **no cifra datos**, solo genera un hash unidireccional usando SHA-25
 ## 🧑‍💻 Autor
 
 * Nombre: ErickO
-* GitHub: [https://github.com/tu\_usuario](https://github.com/NoTrustedx)
+* GitHub: [https://github.com/NoTrustedx](https://github.com/NoTrustedx)
 
 ## 📄 Licencia
 
